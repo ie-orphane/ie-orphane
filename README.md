@@ -1,4 +1,4 @@
-## سلام العالم 👋
+<h2 align="center">سلام العالم 👋</h2>
 
 ```python
 from datetime import datetime
